@@ -1,0 +1,5 @@
+name: Vincent Bonhomme
+markdown: kramdown
+
+plugins:
+  - jemoji
