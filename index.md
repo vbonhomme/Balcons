@@ -1,4 +1,4 @@
-> Bienvenue à Lacamp !  
+## Bienvenue à Lacamp !  
 Ci-dessous quelques informations utiles.  
 Passez un agréable séjour !  
 
