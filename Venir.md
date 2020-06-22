@@ -2,8 +2,6 @@
 [<< accueil](https://vbonhomme.github.io/Balcons/)
 ## Venir aux Balcons
 
-* Map
-
 **Avec un GPS renseignez "Saint-Bresson" !!!
 
 La plupart des GPS vous font passer par une route forestière absolument impraticable sur la fin ! Il faut donc veiller à ce que l'itinéraire passe par le col des Aires, à Saint Bresson.
@@ -12,8 +10,11 @@ N'hésitez pas à nous appeller à l'arrivée ou en chemin ... :
 > Sophia : 06.16.04.22.69  
 > Vincent : 06.95.90.55.79
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1ZagQr0VmFHT1WSmmdLwOF0l8-VfCFGkw" width="640" height="480"></iframe>
+
 [> Lien carte](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%221ZagQr0VmFHT1WSmmdLwOF0l8-VfCFGkw%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22110798060257680362282%22%7D&usp=sharing)
+
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ZagQr0VmFHT1WSmmdLwOF0l8-VfCFGkw" width="800" height="600"></iframe>
 
 ### Par Le Vigan
 1. Suivre "Saint Bresson" par la D110 puis D291. L'embranchement est après le pont sur l'Arre (ront point de super U, coucou la cascade à droite), avant Lidl et Weldom, à l'angle avec le centre des impôts (faites profil bas en tournant à droite). 
