@@ -1,6 +1,6 @@
 
-# Mode d'emploi
-:uk: There is an english version of that thing, after that or there : [http://www.lesbalconsdelacamp.fr/guide_en.html]() 
+[<<< accueil](https://vbonhomme.github.io/Balcons/)
+## Mode d'emploi
 
 ### :telephone: Contacts
 En cas de souci, question ou autre, n'hésitez pas à appeller. Vous pouvez aussi envoyer un message si rien n'urge :
