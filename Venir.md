@@ -5,7 +5,7 @@
 Lacamp se gagne par Le Vigan (depuis Toulouse, Paris, etc.) ou par Ganges (depuis Montpellier, Nimes, etc.).
 
 
-**:checkered_flag: Indiquez dans votre GPS "Saint-Bresson", pas Lacamp ! **
+** :checkered_flag: Indiquez dans votre GPS "Saint-Bresson", pas Lacamp ! **
 
 :evergreen_tree: La plupart des GPS vous font passer par une route forestière absolument impraticable sur la fin ! Il faut donc veiller à ce que l'itinéraire passe par le col des Aires, à Saint Bresson.
 
