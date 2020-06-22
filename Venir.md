@@ -2,11 +2,11 @@
 [<< accueil](https://vbonhomme.github.io/Balcons/)
 ## Venir aux Balcons
 
-**Avec un GPS renseignez "Saint-Bresson" !!!
+**:checkered_flag: Avec un GPS renseignez "Saint-Bresson" !!!**
 
-La plupart des GPS vous font passer par une route forestière absolument impraticable sur la fin ! Il faut donc veiller à ce que l'itinéraire passe par le col des Aires, à Saint Bresson.
+:evergreen_tree: La plupart des GPS vous font passer par une route forestière absolument impraticable sur la fin ! Il faut donc veiller à ce que l'itinéraire passe par le col des Aires, à Saint Bresson.
 
-N'hésitez pas à nous appeller à l'arrivée ou en chemin ... :
+:world_map: N'hésitez pas à nous appeller à l'arrivée ou en chemin ... :
 > Sophia : 06.16.04.22.69  
 > Vincent : 06.95.90.55.79
 
