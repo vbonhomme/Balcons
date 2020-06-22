@@ -2,9 +2,14 @@
 [<< accueil](https://vbonhomme.github.io/Balcons/)
 ## Venir aux Balcons
 
-**:checkered_flag: Avec un GPS renseignez "Saint-Bresson" !!!**
+Lacamp se gagne par Le Vigan (depuis Toulouse, Paris, etc.) ou par Ganges (depuis Montpellier, Nimes, etc.).
+
+
+**:checkered_flag: Indiquez dans votre GPS "Saint-Bresson", pas Lacamp ! **
 
 :evergreen_tree: La plupart des GPS vous font passer par une route forestière absolument impraticable sur la fin ! Il faut donc veiller à ce que l'itinéraire passe par le col des Aires, à Saint Bresson.
+
+Hormis les délicieux camembert de Marion, le premier commerce est à 20 min, donc la voiture est (malheureusement) nécessaire, et le ravitaillement préalable à envisager même si vous trouverez de quoi survivre un jour au gîte !
 
 :world_map: N'hésitez pas à nous appeller à l'arrivée ou en chemin ... :
 > Sophia : 06.16.04.22.69  
@@ -35,11 +40,6 @@ NB: Vous pouvez aussi venir côté Roquedur (voir la carte).
 5. Juste avant le col du Perras, prendre dans le dernier virage la route qui descend (panneau "Lacamp" collector, ramassage scolaire, borne, etc.)
 6. Descendre tout au bout du hameau, après le "centre-ville", se garer sur cette charmante place.
 
-### Considérations générales
-
-Lacamp se gagne par Le Vigan (depuis Toulouse, Paris, etc.) ou par Ganges (depuis Montpellier, Nimes, etc.).
-
-Hormis les délicieux camembert de Marion, le premier commerce est à 20 min, donc la voiture est nécessaire et le ravitaillement préalable est plus qu'une option.
 
 
 <center>
