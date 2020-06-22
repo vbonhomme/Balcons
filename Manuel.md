@@ -1,5 +1,5 @@
 
-[<<< accueil](https://vbonhomme.github.io/Balcons/)
+[<< accueil](https://vbonhomme.github.io/Balcons/)
 ## Mode d'emploi
 
 ### :telephone: Contacts
@@ -87,5 +87,6 @@ Le temps est changeant et imprévisible, en particulier concernant le vent. Merc
 Les marmots du hameau sont en liberté (surveillée) mais sont souvent sur la route. Ils font attention et vous pouvez leur rendre la pareille quand vous circulez en voiture.
 
 <center>
+[<< accueil](https://vbonhomme.github.io/Balcons/)
 ❦   ❦   ❦
 </center>
