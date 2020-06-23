@@ -18,3 +18,5 @@
 * [Welcome Booklet](Manuel_en.html)
 * [Touristic map](https://www.google.com/maps/d/u/0/viewer?mid=1fDnDS6yjuLFXwoll2iBvbia7aX6IEa4m&ll=43.945415805885915%2C3.5978345190957306&z=10)
 
+#### Jardins de Lacamp
+* [Si vous louez les Jardins et les Balcons](Balcons.html)
