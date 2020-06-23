@@ -6,7 +6,7 @@ Lacamp se gagne par Le Vigan (depuis Toulouse, Paris, etc.) ou par Ganges (depui
  
  **Si vous utilisez un GPS, renseignez "Saint-Bresson", pas Lacamp !**
  
- :artificial_satellite:  Certains GPS font passer par une route forestière absolument impraticable sur la fin ! Le plus simple _et_ le plus rapide, est dans tous les cas de passer par le col des Aires, à Saint Bresson.
+ :artificial_satellite:  Certains GPS font passer par une route forestière absolument impraticable sur la fin ! Le plus simple _et_ le plus rapide est, dans **tous les cas de vous assurer que vous passez bien par "le col des Aires, juste au dessus de Saint Bresson".**
 
 :cow: Sinon, hormis les délicieux camemberts de Marion, le premier commerce est à 20 min, donc la voiture est (malheureusement) nécessaire, et le ravitaillement préalable à envisager même si vous trouverez de quoi survivre un jour au gîte !
 
@@ -28,7 +28,7 @@ Lacamp se gagne par Le Vigan (depuis Toulouse, Paris, etc.) ou par Ganges (depui
 5. Juste avant le col du Perras, prendre dans le dernier virage la route qui descend (panneau "Lacamp" collector, ramassage scolaire, borne, etc.)
 6. Descendre tout au bout du hameau, après le "centre-ville", se garer sur cette charmante place.
 
-NB: Vous pouvez aussi venir côté Roquedur (voir la carte).
+NB: Vous pouvez aussi venir côté Roquedur en prenant le premier pont côté Vigan.
 
 ### Par Ganges
 1. Au-rond point à l'entrée de Ganges, prendre la route du Vigan.
