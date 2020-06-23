@@ -19,7 +19,7 @@ Lacamp can be reached via Le Vigan (from Toulouse, Paris, etc.) or via Ganges (f
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ZagQr0VmFHT1WSmmdLwOF0l8-VfCFGkw" width="800" height="600"></iframe>
 
-### Par Le Vigan
+### By Le Vigan
 1. Follow "Saint Bresson" by the D110 then D291. The junction is after the bridge over the Arre (super U, hi the waterfall on the right), before Lidl and Weldom, at the corner with the tax centre (keep a low profile by turning right). 
 2. At the bridge (1 km), follow Saint Bresson on the right.
 3. After 7.3 km you are at the Col des Aires.
@@ -41,7 +41,7 @@ NB: You can also come on the Roquedur side by taking the first bridge on the Vig
 
 
 <center>
-❦   ❦   ❦  
+❦   ❦   ❦   
 [<< accueil](https://vbonhomme.github.io/Balcons/)
 </center>
 
