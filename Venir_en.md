@@ -41,7 +41,8 @@ NB: You can also come on the Roquedur side by taking the first bridge on the Vig
 
 
 <center>
-❦   ❦   ❦   
-[<< accueil](https://vbonhomme.github.io/Balcons/)
+❦   ❦   ❦  
 </center>
+[<< accueil](https://vbonhomme.github.io/Balcons/)
+
 

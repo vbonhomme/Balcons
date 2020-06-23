@@ -3,7 +3,7 @@
 ## Mode d'emploi
 
 ### :telephone: Contacts
-En cas de souci, question ou autre, n'hésitez pas à appeller. Vous pouvez aussi envoyer un message si rien n'urge :
+If you have any concerns, questions, etc., please do not hesitate to call. You can also send a message if there is no urgent need:
 
 ```
 Sophia		+33.(0)6.16.04.22.69  
@@ -24,7 +24,7 @@ Quand on y pense, quelle connerie que de caguer dans de l'eau potable !
 
 Le fonctionnement est simple : après la petite ou la grosse commission, vous recouvrez tout ça avec une ration de sciure. 
 
-Quand le seau est plein : fermez sommairement le sac, mettez le couvercle sur le seau, et sortez le seau. Utilisez l'autre seau avec un sac. Je vous ramenerai le seau vidé et lavé. Les réserves de sciure sont suffisantes à votre séjour.
+Quand le seau est plein (~une semaine à deux) : fermez sommairement le sac, mettez le couvercle sur le seau, et sortez le seau. Utilisez l'autre seau avec un sac. Je vous ramenerai le seau vidé et lavé. Les réserves de sciure sont suffisantes à votre séjour.
 
 ### :cherry_blossom: Produits chimiques
 Les eaux résiduelles (évier, douche, lavabo, machine à laver) sont épurées par des plantes puis recyclées au jardin.
@@ -87,6 +87,7 @@ Le temps est changeant et imprévisible, en particulier concernant le vent. Merc
 Les marmots du hameau sont en liberté (surveillée) mais sont souvent sur la route. Ils font attention et vous pouvez leur rendre la pareille quand vous circulez en voiture.
 
 <center>
-[<< accueil](https://vbonhomme.github.io/Balcons/)
-❦   ❦   ❦
+❦   ❦   ❦  
 </center>
+[<< accueil](https://vbonhomme.github.io/Balcons/)
+

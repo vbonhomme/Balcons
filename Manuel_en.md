@@ -88,6 +88,7 @@ The weather is changeable and unpredictable, especially concerning the wind. Ple
 The hamlet's brats are on the loose (guarded) but are often on the road. They are careful and you can return the favour when you drive by car.
 
 <center>
-[<< accueil](https://vbonhomme.github.io/Balcons/)
-❦   ❦   ❦
+❦   ❦   ❦  
 </center>
+[<< accueil](https://vbonhomme.github.io/Balcons/)
+

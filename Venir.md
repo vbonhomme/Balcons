@@ -43,6 +43,6 @@ NB: Vous pouvez aussi venir côté Roquedur en prenant le premier pont côté Vi
 
 <center>
 ❦   ❦   ❦  
-[<< accueil](https://vbonhomme.github.io/Balcons/)
 </center>
+[<< accueil](https://vbonhomme.github.io/Balcons/)
 
