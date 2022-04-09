@@ -17,14 +17,15 @@ In case of any malfunction at the gîte, do not hesitate to tell us about it, th
 Balcons_Haut
 12345678
 ```
-You can switch off wifi by pressing the `<On/Off>` button on the access point at the top of the stairs on the right.
+
 
 ### :poop: Dry toilets
-When you think about it, what a load of crap is it to poo into drinking water!
+Your toilets are [Cévennette](http://www.cevennette.fr) that Vincent conceived and co-constructs.
 
-It's simple: after the small or big commission, you cover it all up with a ration of sawdust. 
+The functionning is straightforward: ladies and gentlemen **both sit**. Then, the urine diverter located below your lovely bottom will separate poo and pee. The urine is treated by our phytoepuration and the poo is collected in the inox bucket. After your passage, you just have to cover your offer with a couple a toilet paper leaves. 
 
-When the bucket is full (~1 week for two): close the bag roughly, put the lid on the bucket, and take the bucket out. Use the other bucket with a bag. I'll bring the bucket back empty and washed. There is enough sawdust for your stay.
+The bucket has an autononomy of 2 weeks but should it be full before, please contact us.
+
 
 ### :cherry_blossom: About chemical products
 Residual water (sink, shower, washbasin, washing machine) is purified by plants and then recycled in the garden.
