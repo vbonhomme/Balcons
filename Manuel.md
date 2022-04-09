@@ -3,7 +3,7 @@
 ## Mode d'emploi
 
 ### :telephone: Contacts
-If you have any concerns, questions, etc., please do not hesitate to call. You can also send a message if there is no urgent need:
+Si vous avez des questions, un souci, ou autre, n'hésitez pas à nous passer un coup de fil :
 
 ```
 Sophia		+33.(0)6.16.04.22.69  
@@ -17,14 +17,15 @@ En cas de dysfonctionnement quelconque au gîte, n'hésitez pas à nous en parle
 Balcons_Haut
 12345678
 ```
-Vous pouvez désactiver le wifi en appuyant sur le bouton `<On/Off>` du point d'accès situé en haut de l'escalier à droite.
 
 ### :poop: Toilettes sèches
+Vos toilettes sont des [Cévennette](http://www.cevennette.fr) que Vincent (co-)fabrique.
+
 Quand on y pense, quelle connerie que de caguer dans de l'eau potable !
 
-Le fonctionnement est simple : après la petite ou la grosse commission, vous recouvrez tout ça avec une ration de sciure. 
+Le fonctionnement est simple : les messieurs s'asseoient aussi et la pièce située sous vos augustes fesses permet de séparer le pipi du popo. Le pipi est écoulé vers notre phytoépuration, le popo est collecté dans le seau. Après avoir recouvert votre offrande de quelques feuilles de papier toilettes, vous n'avez rien d'autre à faire.
 
-Quand le seau est plein (~une semaine à deux) : fermez sommairement le sac, mettez le couvercle sur le seau, et sortez le seau. Utilisez l'autre seau avec un sac. Je vous ramenerai le seau vidé et lavé. Les réserves de sciure sont suffisantes à votre séjour.
+L'autonomie du seau est d'une semaine pour 4 personnes. Si jamais il devait être plein, nous faire signe.
 
 ### :cherry_blossom: Produits chimiques
 Les eaux résiduelles (évier, douche, lavabo, machine à laver) sont épurées par des plantes puis recyclées au jardin.
