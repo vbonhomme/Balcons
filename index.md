@@ -3,7 +3,6 @@
 ## Bienvenue à Lacamp !  
 
 #### Hotline
-> Sophia : 06.16.04.22.69  
 > Vincent : 06.95.90.55.79
 
 #### :fr:
