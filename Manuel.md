@@ -7,6 +7,7 @@ Si vous avez des questions, un souci, ou autre, n'hésitez pas à nous passer un
 
 ```
 Vincent		+33.(0)6.95.90.55.79
+Sophia   +33.(0)6.16.04.22.69
 ```
 
 En cas de dysfonctionnement quelconque au gîte, n'hésitez surtout pas à nous en parler, cela nous permettra de régler le problème pour les suivants, voire pour vous-même !
@@ -18,11 +19,9 @@ Balcons_Haut
 ```
 
 ### :poop: Toilettes sèches
-Vos toilettes sont des [Cévennette](http://www.cevennette.fr) que je (co-)fabrique.
+Vos toilettes sont des [Cévennette](http://www.cevennette.fr) que je (co-)fabrique. Quand on y pense, quelle connerie que de caguer dans de l'eau potable !
 
-Quand on y pense, quelle connerie que de caguer dans de l'eau potable !
-
-Le fonctionnement est simple : les messieurs s'asseoient comme tout le monde et la pièce située sous vos augustes fesses permet de séparer le pipi du popo. Le pipi est écoulé vers notre phytoépuration, le popo est collecté dans le seau. Après avoir recouvert votre offrande de quelques feuilles de papier toilettes, vous n'avez rien d'autre à faire. Vous pouvez rajouter quelques copeaux si vous préférez mais ce n'est pas nécessaire.
+Le fonctionnement est simple : **les messieurs s'asseoient** et les filles font comme d'habitude. Le séparateur situé sous vos augustes fesses permet de séparer le pipi du popo. Le pipi est écoulé vers notre phytoépuration, le popo est collecté dans le seau. Après avoir recouvert votre offrande de quelques feuilles de papier toilettes, vous n'avez rien d'autre à faire.
 
 L'autonomie du seau est d'une semaine pour 4 personnes. Si jamais il devait être plein, vous pouvez jeter le sac à la poubelle noire.
 
@@ -35,9 +34,9 @@ Utilisez les produits de nettoyage et de bain fournis par nos soins ou des produ
 
 Grâce à nos efforts combinés :
 
-* l'eau potable est économisée
-* le compost est exceptionnel
-* des plantes épuratrices égayent le jardin
+* l'eau potable est économisée ;
+* le compost est exceptionnel ;
+* des plantes épuratrices égayent le jardin ;
 * plus de fosse septique, ni de vilaines boues à évacuer, épandre, etc.
 
 ### :recycle: Déchets
@@ -48,7 +47,7 @@ Nous viderons le verre pour vous, sans souci. Sinon il y a des containers :
  * côté Le Vigan : à l'embranchement de Roquedur le Haut
  * côté Ganges, à Saint-Laurent le Minier et sur le parking de la cascade 
  
-Déchets organiques : je récupère volontiers, sinon, poubelle noire.
+Déchets organiques : vous avez une petite poubelle dédiée.
  
 ### :hotsprings: Chauffage électrique
 La puissance installée est suffisante pour vivre au coeur de l'hiver avec un pull mais est plutôt pensée comme appoint au poêle. Ceci étant, n'hésitez pas à vous chauffer autant qu'il le faut !
@@ -58,7 +57,7 @@ Si le temps est frisquet, le poêle sera allumé à votre arrivée.
 
 Vous aurez à votre disposition allume-feu, petit bois et bûches. Il faut ces trois éléments pour faire un feu. 
  
-Votre poêle démarre au quart de tour si vous ouvrez la trappe du cendrier. Pour les réglages du tirant d'air les boutons deviennent vite brûlants. Gare !
+Votre poêle démarre au quart de tour si vous ouvrez les arrivées d'air. Pour les réglages du tirant d'air les boutons deviennent vite brûlants. Gare !
  
 Vous aurez du bois à l'intérieur, si besoin la réserve est devant le gîte, servez-vous. Les cendres peuvent être vidées, froides, dans le seau au même endroit.
 
@@ -78,7 +77,7 @@ En cas d'orage, il est probable que le général tombe aussi. Il est généralem
 Les fumeur.se.s sont invités à profiter de la vue depuis l'une des terrasses !
 
 ### :sunrise_over_mountains: Vivre sur une crête
-La situation topographique à Lacamp, petit plateau quillé sur une crête, nous offre un panorama unique et une météo tout aussi unique.
+La situation topographique à Lacamp, petit plateau niché sur une crête, nous offre un panorama unique et une météo tout aussi unique.
 
 Le temps est changeant et imprévisible, en particulier concernant le vent. Merci de replier stores, parasols, fenêtres, etc. si vous partez même si vous trouvez la météo actuelle idyllique !
 
