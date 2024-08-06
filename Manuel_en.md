@@ -13,6 +13,7 @@ Vincent		+33.(0)6.95.90.55.79
 In case of any malfunction at the gîte, do not hesitate to tell us about it, this will allow us to solve the problem for the next ones, or even for yourself!
 
 ### :satellite: Internet
+
 ```
 Balcons_Haut
 12345678
