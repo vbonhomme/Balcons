@@ -13,10 +13,9 @@ Vincent		+33.(0)6.95.90.55.79
 In case of any malfunction at the gîte, do not hesitate to tell us about it, this will allow us to solve the problem for the next ones, or even for yourself!
 
 ### :satellite: Internet
-
+There is a dedicated open wifi network (fiber connection) for the gîte:
 ```
 Balcons_Haut
-12345678
 ```
 
 
@@ -27,6 +26,7 @@ The functionning is straightforward: ladies and gentlemen **both sit**. Then, th
 
 The bucket has an autononomy of 2 weeks but should it be full before, please contact us.
 
+When leaving, you can throw the bag into the black dustbin that you find in the hamlet 'centertown'.
 
 ### :cherry_blossom: About chemical products
 Residual water (sink, shower, washbasin, washing machine) is purified by plants and then recycled in the garden.
