@@ -13,9 +13,9 @@ Sophia   +33.(0)6.16.04.22.69
 En cas de dysfonctionnement quelconque au gîte, n'hésitez surtout pas à nous en parler, cela nous permettra de régler le problème pour les suivants, voire pour vous-même !
 
 ### :satellite: Internet
+Pour le gîte, un réeau wifi dédié sur connexion fibre est disponible sans mot de passe :
 ```
 Balcons_Haut
-12345678
 ```
 
 ### :poop: Toilettes sèches
@@ -24,6 +24,8 @@ Vos toilettes sont des [Cévennette](http://www.cevennette.fr) que je (co-)fabri
 Le fonctionnement est simple : **les messieurs s'asseoient** et les filles font comme d'habitude. Le séparateur situé sous vos augustes fesses permet de séparer le pipi du popo. Le pipi est écoulé vers notre phytoépuration, le popo est collecté dans le seau. Après avoir recouvert votre offrande de quelques feuilles de papier toilettes, vous n'avez rien d'autre à faire.
 
 L'autonomie du seau est d'une semaine pour 4 personnes. Si jamais il devait être plein, vous pouvez jeter le sac à la poubelle noire.
+
+Quand vous partez, vous pouvez déposer le sac dans la poubelle noire au centre du hameau.
 
 ### :cherry_blossom: Produits chimiques
 Les eaux résiduelles (évier, douche, lavabo, machine à laver) sont épurées par des plantes puis recyclées au jardin.
